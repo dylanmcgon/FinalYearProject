@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpeakEasy</string>
+    <string name="helpString">To use the application simply click on the button of choice to start building your sentence. Then continue to click on buttons until you have created your full sentence.
+        To get the app to say your sentence you must click the \'Speak!\' button.
+        To delete the sentence you have created simply press the delete all button.
+        App can be controlled with the volume up and down buttons, which allow you to scroll.</string>
+</resources>
